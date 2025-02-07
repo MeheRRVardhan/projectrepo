@@ -1,2 +1,3 @@
 this is new text file named -> Text1.txt
 I am updating the text file
+I had updated now to thala branch now where can we see the "M" modified in git status
